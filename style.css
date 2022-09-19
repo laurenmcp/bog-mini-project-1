@@ -7,6 +7,23 @@
     justify-content: space-between;
 }
 
+.home {
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    
+}
+
+.aboutBox {
+    padding: 40px;
+    color: white;
+}
+
+p {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
 a {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
@@ -14,10 +31,22 @@ a {
     color: #0540F2;
 }
 
+a:link {
+    text-decoration: none;
+}
+a:hover {
+    color: #F080F2;
+
+}
+
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: bold;
+    font-weight:normal;
     color: #0540F2;
+}
+
+h1.nav {
+    font-weight:bolder;
 }
 
 /* Color Theme Swatches in Hex 
