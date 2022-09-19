@@ -19,6 +19,10 @@
     color: white;
 }
 
+.contentBox {
+
+}
+
 p {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 
@@ -49,7 +53,7 @@ h1.nav {
     font-weight:bolder;
 }
 
-/* Color Theme Swatches in Hex 
+/* Color Theme
 color: #F080F2;
 color: #94A2F2; 
 color: #AEB9F2; 
