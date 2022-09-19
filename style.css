@@ -20,6 +20,24 @@
 }
 
 .contentBox {
+    padding: 40px;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: baseline;
+    background-color: black;
+}
+
+.contentPiece {
+    background-color: #aeb9f2;
+    color: black;
+    border-style: solid;
+    border-color: #F080F2;
+    margin:50px;
+    width: 650px;
+    height: 200px;
+    
 
 }
 
