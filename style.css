@@ -1,0 +1,30 @@
+.navbar {
+    display: flex;
+    margin: 0px;
+    padding: 50px;
+    background-color: #aeb9f2;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: larger;
+    color: #0540F2;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: #0540F2;
+}
+
+/* Color Theme Swatches in Hex 
+color: #F080F2;
+color: #94A2F2; 
+color: #AEB9F2; 
+color: #0540F2; 
+color: #F28444; 
+*/
+
