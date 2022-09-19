@@ -20,7 +20,7 @@
 }
 
 .contentBox {
-    padding: 40px;
+    padding: 80px;
     display: flex;
     flex-direction:row;
     flex-wrap: wrap;
@@ -34,10 +34,11 @@
     color: black;
     border-style: solid;
     border-color: #F080F2;
-    margin:50px;
+    margin:10px;
     width: 650px;
-    height: 200px;
-    
+    height: 300px;
+    padding: 20px;
+    margin-top: 40px;
 
 }
 
