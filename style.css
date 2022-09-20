@@ -42,6 +42,18 @@
 
 }
 
+.gallery {
+    background-color: black;
+    padding:80px;
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+}
+
+.galleryPiece {
+    margin:40px;
+}
+
 p {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 
